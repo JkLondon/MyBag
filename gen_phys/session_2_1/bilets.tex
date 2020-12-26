@@ -1,0 +1,41 @@
+\documentclass[a4paper,12pt]{article} % добавить leqno в [] для нумерации слева
+
+%%% Работа с русским языком
+\usepackage{cmap}					% поиск в PDF
+\usepackage{mathtext} 				% русские буквы в фомулах
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+\usepackage{float}
+\usepackage{graphicx}
+%%% Дополнительная работа с математикой
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} % AMS
+\usepackage{icomma} % "Умная" запятая: $0,2$ --- число, $0, 2$ --- перечисление
+
+%% Номера формул
+%\mathtoolsset{showonlyrefs=true} % Показывать номера только у тех формул, на которые есть \eqref{} в тексте.
+
+%% Шрифты
+\usepackage{euscript}	 % Шрифт Евклид
+\usepackage{mathrsfs} % Красивый матшрифт
+
+%% Свои команды
+\DeclareMathOperator{\sgn}{\mathop{sgn}}
+
+%% Перенос знаков в формулах (по Львовскому)
+\newcommand*{\hm}[1]{#1\nobreak\discretionary{}
+{\hbox{$\mathsurround=0pt #1$}}{}}
+
+%%% Заголовок
+\author{Илья Михеев}
+\title{Билеты по Электричеству и Магнетизму}
+\date{\today}
+
+\begin{document} % конец преамбулы, начало документа
+
+\maketitle 
+
+\part{Электростатика}
+\section{Электрические заряды и электрическое поле. Закон сохранения заряда, элементарный заряд. Напряжённость электрического поля. Закон Кулона. Гауссова система единиц (СГС) и система СИ. Принцип суперпозиции. Электрическое поле диполя.}
+\textbf{Электрические заряды} --- 
+\end{document} % конец документа
