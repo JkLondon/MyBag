@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.18)  27 DEC 2020 02:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.18)  27 DEC 2020 04:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -540,31 +540,63 @@ Overfull \hbox (2.02449pt too wide) in paragraph at lines 39--39
 []\T2A/cmr/bx/n/17.28 Электрические за-ря-ды и элек-три-че-ское по-
  []
 
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 43.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 43.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 43.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./bilets.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+Overfull \hbox (13.1688pt too wide) in paragraph at lines 87--87
+\T2A/cmr/bx/n/17.28 тро-ста-ти-че-ско-го по-ля. По-тен-ци-ал и раз-ность
+ []
+
+
+Overfull \hbox (6.9316pt too wide) in paragraph at lines 88--88
+[]\T2A/cmr/bx/n/14.4 Потенциальный ха-рак-тер элек-тро-ста-ти-че-ско-го по-
+ []
+
+[4] [5] (./bilets.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5028 strings out of 479383
- 67648 string characters out of 5875829
- 353802 words of memory out of 5000000
- 22021 multiletter control sequences out of 15000+600000
- 414104 words of font info for 51 fonts, out of 8000000 for 9000
+ 5112 strings out of 479383
+ 68732 string characters out of 5875829
+ 357802 words of memory out of 5000000
+ 22059 multiletter control sequences out of 15000+600000
+ 424811 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,6n,72p,603b,257s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,6n,72p,604b,257s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/
-texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/font
-s/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/
-cm-super/sfbx2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm12
-00.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/sh
-are/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on bilets.pdf (1 page, 58846 bytes).
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></
+usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf
+-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/typ
+e1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-su
+per/sfbx2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pf
+b></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/t
+exmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf-dist/fonts
+/type1/public/cm-super/sfti1200.pfb>
+Output written on bilets.pdf (5 pages, 225742 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 98 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
