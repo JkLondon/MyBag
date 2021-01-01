@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.18)  27 DEC 2020 17:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.29)  2 JAN 2021 01:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**bilets.tex
-(./bilets.tex
+**bileti.tex
+(./bileti.tex
 LaTeX2e <2020-10-01> patch level 2
 L3 programming layer <2020-12-03> xparse <2020-03-03>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
@@ -441,40 +441,43 @@ LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup9
 )
+\c@theorem=\count270
+\c@definition=\count271
+
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count270
+\l__kernel_color_stack_int=\count272
 \l__pdf_internal_box=\box52
-) (./bilets.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Info: Redefining \th on input line 34.
+) (./bileti.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Info: Redefining \th on input line 37.
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count271
+\scratchcounter=\count273
 \scratchdimen=\dimen161
 \scratchbox=\box53
-\nofMPsegments=\count272
-\nofMParguments=\count273
+\nofMPsegments=\count274
+\nofMParguments=\count275
 \everyMPshowfont=\toks31
-\MPscratchCnt=\count274
+\MPscratchCnt=\count276
 \MPscratchDim=\dimen162
-\MPnumerator=\count275
-\makeMPintoPDFobject=\count276
+\MPnumerator=\count277
+\makeMPintoPDFobject=\count278
 \everyMPtoPDFconversion=\toks32
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -487,153 +490,127 @@ e
 ))<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 
 LaTeX Font Warning: Font shape `T2A/cmr/m/up' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 36.
+(Font)              using `T2A/cmr/m/n' instead on input line 39.
 
 LaTeX Font Info:    Trying to load font information for OML+cmr on input line 3
-6.
+9.
 (/usr/share/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OML/cmr/m/up' undefined
-(Font)              using `OML/cmr/m/it' instead on input line 36.
+(Font)              using `OML/cmr/m/it' instead on input line 39.
 
 LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <14.4> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 36.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 39.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 36.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 39.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <7> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 36.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 39.
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 3
-6.
+9.
 (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OMS/cmr/m/up' undefined
-(Font)              using `OMS/cmr/m/n' instead on input line 36.
+(Font)              using `OMS/cmr/m/n' instead on input line 39.
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 36.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 36.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 36
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 39
 .
 
 (/usr/share/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-Overfull \hbox (2.02449pt too wide) in paragraph at lines 39--39
-[]\T2A/cmr/bx/n/17.28 Электрические за-ря-ды и элек-три-че-ское по-
+Overfull \hbox (14.06569pt too wide) in paragraph at lines 42--42
+[]\T2A/cmr/bx/n/17.28 Свјртка функ-ций и еј асо-ци-а-тив-ность. Диф-
  []
 
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 43.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 44.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 43.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 44.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 43.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 44.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 44.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 44.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 44.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-Overfull \hbox (13.1688pt too wide) in paragraph at lines 87--87
-\T2A/cmr/bx/n/17.28 тро-ста-ти-че-ско-го по-ля. По-тен-ци-ал и раз-ность
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (8.67201pt too wide) in paragraph at lines 64--66
+\T2A/cmr/m/up/12 также рав-но про-из-ве-де-нию мо-ду-лей $\OML/cmm/m/it/12 f$ \
+T2A/cmr/m/up/12 и $\OML/cmm/m/it/12 g$\T2A/cmr/m/up/12 , так как раз-ли-ча-ет-с
+я от $\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 y\O
+T1/cmr/m/n/12 )\OML/cmm/m/it/12 g\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/
+n/12 )\OMS/cmsy/m/n/12 j$
  []
 
-
-Overfull \hbox (6.9316pt too wide) in paragraph at lines 88--88
-[]\T2A/cmr/bx/n/14.4 Потенциальный ха-рак-тер элек-тро-ста-ти-че-ско-го по-
+[2] [3]
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <17.28> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 138.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <17.28> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 138.
+ [4] [5]
+Overfull \hbox (3.40468pt too wide) in paragraph at lines 209--210
+\T2A/cmr/bx/n/12 Definition 4.1 \T2A/cmr/m/up/12 (Диф-фе-рен-ци-ру-е-мое отоб-р
+а-же-ние)\T2A/cmr/bx/n/12 . \T2A/cmr/m/up/12 Отоб-ра-же-ние $\OML/cmm/m/it/12 f
+ \OT1/cmr/m/n/12 : \OML/cmm/m/it/12 U \OMS/cmsy/m/n/12 !
  []
 
-[4]
-Overfull \hbox (16.50226pt too wide) in paragraph at lines 115--115
-\T2A/cmr/bx/n/17.28 ни-ки в элек-три-че-ском по-ле. Гра-нич-ные усло-
- []
-
-
-Overfull \hbox (6.35481pt too wide) in paragraph at lines 115--115
-\T2A/cmr/bx/n/17.28 вия на по-верх-но-сти про-вод-ни-ка. Един-ствен-
- []
-
-
-Overfull \hbox (2.74461pt too wide) in paragraph at lines 115--115
-\T2A/cmr/bx/n/17.28 но-го за-ря-да в про-во-дя-щих плос-ко-сти и сфе-
- []
-
-[5] [6]
-Overfull \hbox (14.41705pt too wide) in paragraph at lines 144--144
-[]\T2A/cmr/bx/n/14.4 Изображение то-чеч-но-го за-ря-да в про-во-дя-щих плос-
- []
-
-
-Overfull \hbox (1.30402pt too wide) in paragraph at lines 151--151
-[]\T2A/cmr/bx/n/14.4 Электрическое по-ле в ве-ще-стве. Сво-бод-ные и свя-
- []
-
-[7] [8]
-Overfull \hbox (11.44629pt too wide) in paragraph at lines 178--178
-[]\T2A/cmr/bx/n/17.28 Электрическая јм-кость. Кон-ден-са-то-ры. Вы-
- []
-
-[9]
-Overfull \hbox (28.49167pt too wide) in paragraph at lines 206--208
-\T2A/cmr/m/up/12 первое сла-га-е-мое об-ра-ща-ет-ся в нуль при при-ме-не-нии те
-о-ре-мы Остроградского-
- []
-
-[10] [11] [12] (./bilets.aux)
+[6] [7] [8] (./bileti.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5112 strings out of 479383
- 68732 string characters out of 5875829
- 358804 words of memory out of 5000000
- 22059 multiletter control sequences out of 15000+600000
- 424811 words of font info for 80 fonts, out of 8000000 for 9000
+ 5156 strings out of 479383
+ 69315 string characters out of 5875829
+ 360960 words of memory out of 5000000
+ 22095 multiletter control sequences out of 15000+600000
+ 425564 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,6n,72p,732b,257s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,12n,72p,1052b,261s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
-/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></
-usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf
--dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/typ
-e1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-su
-per/sfbx2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pf
-b></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/t
-exmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf-dist/fonts
-/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf-dist/fonts/type1/public/c
-m-super/sfti1200.pfb>
-Output written on bilets.pdf (12 pages, 273231 bytes).
+texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.p
+fb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/
+texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/font
+s/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/
+cm-super/sfbx2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm12
+00.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/sh
+are/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf-dist/
+fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on bileti.pdf (8 pages, 250259 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
+ 109 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

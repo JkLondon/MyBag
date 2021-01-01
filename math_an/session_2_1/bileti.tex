@@ -1,0 +1,255 @@
+\documentclass[a4paper,12pt]{article} % добавить leqno в [] для нумерации слева
+
+%%% Работа с русским языком
+\usepackage{cmap}					% поиск в PDF
+\usepackage{mathtext} 				% русские буквы в фомулах
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+\usepackage{float}
+\usepackage{graphicx}
+%%% Дополнительная работа с математикой
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} % AMS
+\usepackage{icomma} % "Умная" запятая: $0,2$ --- число, $0, 2$ --- перечисление
+
+%% Номера формул
+%\mathtoolsset{showonlyrefs=true} % Показывать номера только у тех формул, на которые есть \eqref{} в тексте.
+
+%% Шрифты
+\usepackage{euscript}	 % Шрифт Евклид
+\usepackage{mathrsfs} % Красивый матшрифт
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}[theorem]{Lemma}
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[section]
+%% Свои команды
+\DeclareMathOperator{\sgn}{\mathop{sgn}}
+
+%% Перенос знаков в формулах (по Львовскому)
+\newcommand*{\hm}[1]{#1\nobreak\discretionary{}
+	{\hbox{$\mathsurround=0pt #1$}}{}}
+
+%%% Заголовок
+\author{Илья Михеев}
+\title{Билеты по Матану, прости Господи}
+\date{last upd \today  }
+
+\begin{document} % конец преамбулы, начало документа
+	
+\maketitle 
+	
+\part{Свёртки и приближение функций бесконено гладкими}
+\section{Свёртка функций и её асоциативность. Дифференцирование свёртки}
+\subsection{Определение}
+Свёрткой функции $h(x)$ назовем такой интеграл:
+\begin{equation}
+	h(x) = \int_{\mathbb{R}^n} f(x - t) g(t) \, dt = \int_{\mathbb{R}^n} f(t) g(x - t) \, dt 
+\end{equation}
+или $h= f * g$. 
+\subsection{Немного о существовании интеграла}
+\begin{theorem}\label{th1} 
+	Если функции $f$ и $g$ имеют конечные интегралы, то $f *g$ определена почти всюду и выполняется неравенство
+	\begin{equation}
+		 \int_{\mathbb{R}^n} |f * g| \, dx  \leq  \int_{\mathbb{R}^n} |f| \, dx  \cdot  \int_{\mathbb{R}^n} |g|\, dx 
+	\end{equation}
+	и равенство
+	\begin{equation}
+		 \int_{\mathbb{R}^n} f  * g \, dx  =  \int_{\mathbb{R}^n} f \, dx \cdot  \int_{\mathbb{R}^n} g \, dx 
+	\end{equation}
+\end{theorem}
+\begin{proof}
+	Функция $f(y)g(x)$ измерима по Лебегу и интеграл ее модуля равен произведению интегралов модулей $f$ и $g$ по теореме Фубини. Тогда выражение 
+	\begin{equation}
+		 \int_{\mathbb{R}^n \times \mathbb{R}^n} |f(x - t) g(t) \, dt dx
+	\end{equation}
+	также равно произведению модулей $f$ и $g$, так как различается от $|f(y) g(x)|$ линейной заменой с ед. детерминантом. Отсюда можно понять, что интегралы в неравенстве
+	\begin{equation}
+		\left| \int_{\mathbb{R}^n} f(x - t) g(t) \, dt \right| \leq  \int_{\mathbb{R}^n} |f(x - t) g(t)| \, dt 
+	\end{equation}
+	определены почти для всех $x$ и требуемое неравенство получается из интегрирования по $x$. Последнее равенство получается из теоремы Фубини линейной заменой $x - t  = y$.
+\end{proof}
+\subsection{Ассоциативность}
+\begin{theorem}
+	Свёртка ассоциативна, то есть:
+	\begin{equation}
+		f * (g * h) =  (f * g) * h
+	\end{equation}
+\end{theorem}
+\begin{proof}
+	\begin{equation}
+		f * (g * h) = f * \int_{\mathbb{R}^n} g(x - t) h(t) \, dt = f * k = \int_{\mathbb{R}^n} f(x - u) \int_{\mathbb{R}^n} g(u - v) h(v) \, dv  \, du
+	\end{equation}
+	\begin{equation}
+	(f * g) * h = \int_{\mathbb{R}^n} f(x - t) g(t) \, dt * h  = k * h = \int_{\mathbb{R}^n} \int_{\mathbb{R}^n} f(x - u - v) g(v) h(u)  \, dv  \, du
+	\end{equation}
+	Становится понятно, что первое равно второму после замены $s = u + v$ во втором равенстве. Также надо в верхнем переставить второй интеграл в начало (имеем право). Ну сами попробуйте короче.
+\end{proof}
+\subsection{Дифференцирование свёртки}
+\begin{theorem}
+	Если в свёртке функция $g$ интегрируема с конечным интегралом, а $f$ ограничена, также как и ее частная производная $\frac{\partial f}{\partial x_i}$. Тогда можем дифференцировать под знаком интеграла (по теореме из 2ого сема, которая имеет буквально те условия, что описаны выше)
+	\begin{equation}
+		\frac{\partial (f * g)}{\partial x_i} = \int_{\mathbb{R}^n} \frac{\partial f (x - t)}{\partial x_i} g(t) \, dt = \frac{\partial f}{\partial x_i} * g	
+	\end{equation}
+\end{theorem}
+\begin{proof}
+	Следует из теоремы, доказанной ранее (прошлый семестр), не уверен, что ее требуется передоказывать.
+\end{proof}
+\section{Бесконечно гладкие функции с компактным носителем, примеры}
+Давайте для начала посмотрим на некоторую бесконечно гладкую функцию
+\begin{equation}
+	f(x) = 
+	\begin{cases}
+		0,  & \text{$x \leq 0$;} \\
+		e^{-1/x},  & \text{$x > 0$.}
+	\end{cases}
+\end{equation}
+Она бесконечно дифференцируема везде, кроме мб точки $0$. Всякая производная справа от нуля у функции имеет вид $P(1/x) e^(-1/x)$, где $P$ --- многочлен. Отсюда следует, что предел ее производной в нуле справа равен нулю. Также имеет место (Лопиталь)
+\begin{equation}
+	f^{(n+1)}(0) = \lim\limits_{x \rightarrow 0} \frac{f^{(n)}(x) - f^{(n)}(0)}{x} = \frac{f^{(n+1)}(x)}{1} = 0
+\end{equation}
+Поэтому функция $f$ бесконечно дифференцируема (бесконечно гладкая) на всей прямой. Тогда введем функцию $\varphi(x)$
+\begin{equation}
+	\varphi(x) = f(x + 1)f(x - 1)
+\end{equation}
+Которая будет бесконечно гладкой на всей прямой и будет отлична от нуля только на интервале $(-1, 1)$, на котором она будет положительна.
+\begin{lemma}
+	Для всякого $\varepsilon > 0$ существует бесконечно гладкая функция $\varphi_{\varepsilon} : \mathbb{R}^n \rightarrow \mathbb{R}^+$, отличная от нуля только в $U_{\varepsilon}(0)$ и такая, что 
+	\begin{equation}
+		\int_{\mathbb{R}^n} \varphi_{\varepsilon} (x) \, dx = 1
+	\end{equation}
+	Для всяких $\varepsilon > \delta > 0$ существует бесконечно гладкая функция $\psi_{\varepsilon, \delta} : \mathbb{R}^n \rightarrow [0, 1]$, отличная от  нуля только в $U_{\varepsilon}(0)$ тождественно равная 1 в $U_{\delta}(0)$.
+ \end{lemma}
+\begin{proof}
+	В первом случае пойдет функция вида
+	\begin{equation}
+		\varphi_{\varepsilon}(x_1, \dots, x_n) = A \varphi(\frac{\sqrt{n} x_1}{\varepsilon}) \dots  \varphi(\frac{\sqrt{n} x_n}{\varepsilon}) 
+	\end{equation}
+	для уже известной функции $\varphi$ и некоторой константы $A$. Способ построения функции указывает, что в пределе одного аргумента функция ненулевая при $x_i \leq \frac{\varepsilon}{\sqrt{n}}$.
+\end{proof}
+Во втором случае сначала рассмотрим функцию одной переменной
+\begin{equation}
+	\psi (x) = B \int\limits_{-\infty}^{x} \varphi (t) \, dt,
+\end{equation}
+Где константу выбираем так, чтобы $\psi (x) \equiv 0$ при $x \leq  -1$ и $\psi (x) \equiv 1$ при $x \geq  1$. Тогда достаточно положить 
+\begin{equation}
+	\psi_{\varepsilon, \delta} (x) = \psi \left( \frac{\delta + \varepsilon - |x|}{\varepsilon - \delta}\right)
+\end{equation}
+Такая вот прикольная псевдо-ступенька.
+\section{Приближение функций в $\mathbb{R}^n$ (вместе с производными) бесконечно гладкими функциями}
+\subsection{Простое приближение}
+\begin{theorem}
+	Пусть $\varphi : \mathbb{R}^n \rightarrow R$ --- неотрицательная бесконечно гладкая функция, отличная от нуля только при $|x| \leq 1$ и пусть  $\int_{\mathbb{R}^n} \varphi(x) \, dx = 1$. Положим 
+	\begin{equation}
+		\varphi_k (x) = k^n \varphi (kx),
+	\end{equation}
+	эти функции тоже имеют единичные интегралы и $\varphi_k$ отлична от нуля только при $|x| \leq 1/k$. (Попробуйте эту лабуду представить сначала без $k^n$, а потом поймите зачем $k^n$ нужно). Теперь для непрерывной $f : \mathbb{R}^n \rightarrow \mathbb{R}$ определим свёртки
+	\begin{equation}
+		f_k (x) = \int_{\mathbb{R}^n} f(x - t) \varphi_k(t) \, dt = \int_{\mathbb{R}^n} f(t) \varphi_k(x - t) \, dt
+	\end{equation}
+	Функции $f_k$ бесконечно дифференцируемые и $f_k \rightarrow f$ равномерно на компактных  подмножествах $\mathbb{R}^ n$.
+\end{theorem}
+\begin{proof}
+	Выпишем разность
+	\begin{equation}
+		f_k(x) - f(x) = \int_{\mathbb{R}^n} (f(x - t) - f(x)) \varphi_k (t) \, dt
+	\end{equation}
+	Пусть $f$ равномерно непрерывна в $\delta$ окрестности компакта $K \subset \mathbb{R}^n$ и пусть$|f(x) - f(y)|< \varepsilon$ при $|x - y|< \delta$ в этой окрестности. Выберем $k$ настолько большим, чтобы $1/k < \delta$. Тогда в интеграле $\varphi_k (t)$ отлична от нуля только при $|t|< \delta$, и тогда $|f(x - t) - f(x)|< \varepsilon$, при $x \in K$. Тогда при $x \in K$ верна оценка
+	\begin{equation}
+		|f_k (x) - f(x)| \leq \varepsilon \int_{\mathbb{R}^n} \varphi_k (x) \, dx  = \varepsilon	
+	\end{equation}
+	Это показывает равномерную сходимость на компактах. Дифференцируемость можно доказать, используя  дифференцирование интеграла
+	\begin{equation}
+		\int_{\mathbb{R}^n} f(t) \varphi_k (x - t) \, dt.
+	\end{equation}
+	по параметру по той же теореме из прошлого сема. Производная при $x \in K$ будет зависеть только от значения $f$ в $1/k$-окрестности $K$, то есть $f$ можно  считать интегрируемой  при дифференцировании по параметру, что позволяет применить теорему.
+\end{proof}
+\begin{theorem}
+	В условиях предыдущей теоремы, если исходная функция $f$ имеет непрерывные производные до $m$-го порядка, то производные $f_k$ до $m$-го порядка равномерно на компактах сходятся к соответствующим производным $f$.
+\end{theorem}
+\begin{proof}
+	Давайте дифференцировать $f * \varphi_k$ по нескольким $x_i$ точно также, как описано выше. Тогда получится
+	\begin{equation}
+		\frac{\partial^m (f * \varphi_k)}{\partial x_{i_1} \dots x_{i_n}} = \frac{\partial^m f}{\partial x_{i_1} \dots x_{i_n}} *  \varphi_k
+	\end{equation}
+	Таким образом, последовательность производных свёртки является последовательностью свёрток производной $f$ с теми же функциями $\varphi_k$. А значит для этой последовательности тоже имеет место верна равномерная сходимость к производной $f$.
+\end{proof}
+\subsection{Лебег!}
+\begin{theorem}
+	Пусть функция $f : \mathbb{R}^n \rightarrow \mathbb{R}$ имеет конечный интеграл Лебега. Тогда свёртки $f * \varphi_k$ сколь угодно близко приближают $f$ в среднем.
+\end{theorem}
+\begin{proof}
+	Возьмём $\varepsilon > 0$ и представим по теореме из 2ого сема (о приближении ступенчатой в среднем)
+	\begin{equation}
+		f = g + h
+	\end{equation}
+	где $g$ --- элементарно ступенчатая и 
+	\begin{equation}
+		\int_{\mathbb{R}^n} |h(x)| \, dx < \varepsilon
+	\end{equation}
+	Тогда по теореме \ref{th1} 
+	\begin{equation}
+		\int_{\mathbb{R}^n} |h * \varphi_k| \, dx < \varepsilon
+	\end{equation}
+	Что значит, что если будет так, что 
+	\begin{equation}
+		\int_{\mathbb{R}^n} |g - g * \varphi_k| \, dx < \varepsilon
+	\end{equation}
+	То будет выполняться 
+	\begin{equation}
+		\int_{\mathbb{R}^n} |f - f * \varphi_k| \, dx \leq	\int_{\mathbb{R}^n} |h(x)| \, dx + \int_{\mathbb{R}^n} |h * \varphi_k| \, dx + \int_{\mathbb{R}^n} |g - g * \varphi_k| \, dx < 3 \varepsilon
+	\end{equation}
+	Таким образом, достаточно доказать утверждение для элементарно ступенчатой $g$. Раскладывая $g$ в сумму характеристических функций параллелепипеда с некоторыми коэффициентами, можно видеть, что достаточно доказать утверждение для одной характеристической функции параллелепипеда $\chi_P$. Но разность$\chi_P - \chi_P * \varphi_k$ будет отлична от нуля только в $1/k$-окрестности $\partial P$ и будет там по модулю не более 1, то естьпосле интегрирования модуля разности мы получим не более $\mu(U_{1/k}(\partial P))$. Прямым вычислением можно убедиться, что эта мера стремится к нулю при $k \rightarrow \infty$
+\end{proof}
+Если говорить проще, то мы смотрим на одну ступеньку и говорим, что ее характеристическая функция отлично приближается свертками. Причем мера точности приближения будет обратно пропорциональна $k$ $\rightarrow$ всё по кайфу.
+
+\part{Дифференцируемые отображения и криволинейные системы координат}
+\section{Дифференцируемые отображения и производная композиции отображений}
+\subsection{Дифференцируемые отображения}
+\begin{definition}[Дифференцируемое отображение]
+	Отображение $f : U \rightarrow \mathbb{R}^m$, где $U \subset \mathbb{R}^n$ и открытое, называется дифференцируемым, если представимо как 
+	\begin{equation}
+		f(x) = f(x_0) + D f_{x_0}(x - x_0) + o(|x - x_0|)
+	\end{equation}
+	при $x \rightarrow x_0$\\
+	где $D f_{x_0} :  \mathbb{R}^n \rightarrow \mathbb{R}^m$ --- линейное отображение, называемое производной в точке $x_0 \in U$.
+\end{definition}[Непрерывно дифференцируемое отображение]
+\begin{definition}
+	 $f : U \rightarrow \mathbb{R}^m$ называется Непрерывно дифференцируемым,  если $\forall x_0 \in U \, \exists D f_{x_0}$, которое непрерывно и непрерывно зависит от $x_0 \in U$.
+\end{definition}
+Вот эта вот $D$ де-факто --- матрица $m \times n$, в которой каждая ячейка выглядит как $ \left( \frac{\partial f_i}{\partial x_j} \right)$, и для проверки последнего определения достаточно проверить все эти ячейки на непрерывность.
+\subsection{Норма матрицы}
+Докажем существование "нормы" у матриц линейных отображений:
+\begin{lemma}
+	$\forall$ линейного $A : \mathbb{R}^n \rightarrow \mathbb{R}^m$ $\exists ||A|| \in \mathbb{R} т.ч. \, \forall x \in \mathbb{R}^n$
+	\begin{equation}
+		|Ax| \leq ||A|| \cdot |x|
+	\end{equation}
+\end{lemma}
+\begin{proof}
+	$Ax$ непрерывно зависит от $x$. Рассмотрим $n-1$-мерную сферу $S^{n-1} = \bigl\{ x \in \mathbb{R}^n \bigm| |x| = 1 \bigl\}$ \\
+	$S^{n-1}$ компактно $\rightarrow$ $|Ax|$ достигает максимума на $S^{n-1}$. \\
+	Пусть $\max\limits_{|x| = 1} |Ax| = ||A||\in \mathbb{R}$.\\
+	$|Ax| \leq ||A|| \cdot |x|$ верно при $|x| = 1$	. При $x = 0$ всё так же очевидно, при $y = tx$ всё будет очевидно после вынесение $t$ за скобки везде.
+\end{proof}
+\subsection{Производная композиции}
+\begin{theorem}
+	Пусть у нас есть $f : U \rightarrow \mathbb{R}^m$ и $g : V \rightarrow \mathbb{R}^k$, где $U \in \mathbb{R}^n$, а $V \in \mathbb{R}^m$. Обозначим также $f(x_0) = y_0 \in V, \, x_0 \in U$\\
+	Пусть также $f$ дифференцируема в $x_0$ и $g$ дифференцируема в $y_0$. Тогда $g \circ f$ дифференцируемо в $x_0$ и $D(g \circ f)_{x_0} = D g_{y_0} \circ D f_{x_0}$
+\end{theorem}
+\begin{proof}
+	Обозначим $A = D f_{x_0}$ и $B = D g_{x_0}$. Тогда
+	$$f(x) = f(x_0) + A(x-x_0) + o(|x-x_0|)$$
+	$$g(x) = g(y_0) + B(y-y_0) + o(|y-y_0|)$$
+	\begin{equation}
+		g(f(x)) = g(f(x_0)) + B(A(x-x_0) + o(|x-x_0|)) + o(A(|x-x_0|) + o(|x-x_0|)) 
+	\end{equation}
+	это же выражение равно
+	\begin{equation}
+		g(f(x)) = g \circ f (x_0) + B \cdot A (x - x_0) + B o(|x-x_0|) + o(A|x-x_0|) 
+	\end{equation}
+	которое используя тот факт, что $C o (x) = o(C x) = o (x)$ преобразовывается как:
+	\begin{equation}
+		g(f(x)) = g \circ f (x_0) + B \cdot A (x - x_0) + o(|x-x_0|)
+	\end{equation}
+\end{proof}
+\end{document} % конец документа
