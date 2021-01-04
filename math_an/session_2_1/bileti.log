@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.29)  3 JAN 2021 04:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.29)  4 JAN 2021 03:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -637,7 +637,79 @@ Overfull \hbox (1.50641pt too wide) in paragraph at lines 364--364
 \T2A/cmr/bx/n/17.28 го диф-фе-рен-ци-а-ла (гес-си-а-на) функ-ции как
  []
 
-[13] [14] [15] (./bileti.aux)
+[13] [14]
+Overfull \hbox (1.24866pt too wide) in paragraph at lines 384--384
+[]\T2A/cmr/bx/n/17.28 Локальные мак-си-му-мы и ми-ни-му-мы функ-
+ []
+
+
+Overfull \hbox (7.36697pt too wide) in paragraph at lines 384--384
+\T2A/cmr/bx/n/17.28 ций мно-гих пе-ре-мен-ных. Необ-хо-ди-мое усло-
+ []
+
+
+Overfull \hbox (11.86444pt too wide) in paragraph at lines 385--385
+[]\T2A/cmr/bx/n/14.4 Локальные мак-си-му-мы и ми-ни-му-мы функ-ций мно-
+ []
+
+
+Overfull \hbox (13.56955pt too wide) in paragraph at lines 389--389
+[]\T2A/cmr/bx/n/14.4 Необходимое усло-вие экс-тре-му-ма непре-рыв-но диф-
+ []
+
+
+Overfull \hbox (4.7716pt too wide) in paragraph at lines 401--401
+[]\T2A/cmr/bx/n/14.4 Необходимое усло-вие экс-тре-му-ма два-жды непре-
+ []
+
+[15]
+Overfull \hbox (1.559pt too wide) in paragraph at lines 412--412
+[]\T2A/cmr/bx/n/14.4 Достаточное усло-вие экс-тре-му-ма два-жды непре-
+ []
+
+[16]
+Overfull \hbox (2.8951pt too wide) in paragraph at lines 434--434
+[]\T2A/cmr/bx/n/17.28 Условные экс-тре-му-мы. Необ-хо-ди-мое усло-
+ []
+
+
+Overfull \hbox (2.47092pt too wide) in paragraph at lines 434--434
+\T2A/cmr/bx/n/17.28 вие услов-но-го экс-тре-му-ма в тер-ми-нах пер-
+ []
+
+
+Overfull \hbox (38.72984pt too wide) in paragraph at lines 434--434
+\T2A/cmr/bx/n/17.28 вых про-из-вод-ных. Ме-тод мно-жи-те-лей Лагран-
+ []
+
+
+Overfull \hbox (1.50778pt too wide) in paragraph at lines 442--442
+[]\T2A/cmr/bx/n/17.28 Необходимое усло-вие услов-но-го экс-тре-му-
+ []
+
+
+Overfull \hbox (7.56706pt too wide) in paragraph at lines 444--445
+\T2A/cmr/bx/n/12 Theorem 19. \T2A/cmr/m/it/12 Ес-ли $\OML/cmm/m/it/12 f$ \T2A/c
+mr/m/it/12 и $\OML/cmm/m/it/12 '[]; [] ; '[]$ \T2A/cmr/m/it/12 непре-рыв-но диф
+-фе-рен-ци-ру-е-мы в окрест-
+ []
+
+[17]
+Overfull \hbox (14.56348pt too wide) in paragraph at lines 466--466
+[]\T2A/cmr/bx/n/17.28 Необходимые и до-ста-точ-ные усло-вия услов-
+ []
+
+
+Overfull \hbox (3.35469pt too wide) in paragraph at lines 467--467
+[]\T2A/cmr/bx/n/14.4 Необходимое усло-вие услов-но-го экс-тре-му-ма с ис-
+ []
+
+[18]
+Overfull \hbox (0.14209pt too wide) in paragraph at lines 474--474
+[]\T2A/cmr/bx/n/14.4 Достаточное усло-вие услов-но-го экс-тре-му-ма с ис-
+ []
+
+[19] (./bileti.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -667,10 +739,10 @@ cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx24
 are/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf-dist/
 fonts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf-dist/fonts/type1/pub
 lic/cm-super/sfti1200.pfb>
-Output written on bileti.pdf (15 pages, 289207 bytes).
+Output written on bileti.pdf (19 pages, 306947 bytes).
 PDF statistics:
- 135 PDF objects out of 1000 (max. 8388607)
- 93 compressed objects within 1 object stream
+ 149 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
