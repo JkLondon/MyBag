@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.29)  5 JAN 2021 06:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.29)  6 JAN 2021 05:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -742,17 +742,73 @@ Overfull \hbox (0.79486pt too wide) in paragraph at lines 586--587
 mr/m/it/12 в точ-ке $\OML/cmm/m/it/12 p$ \T2A/cmr/m/it/12 за-ви-сит толь-
  []
 
-[23] [24] (./bileti.aux)
+[23]
+LaTeX Font Info:    Trying to load font information for U+euf on input line 596
+.
+ (/usr/share/texmf-dist/tex/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+)
+Overfull \hbox (26.47621pt too wide) detected at line 598
+\OT1/cmr/m/n/12 (\OML/cmm/m/it/12  \OMS/cmsy/m/n/12 ^ \OML/cmm/m/it/12 ^^L\OT1
+/cmr/m/n/12 )(\OML/cmm/m/it/12 X[]; [] ; X[]\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/1
+2 c[] []\OT1/cmr/m/n/12 ([] \OML/cmm/m/it/12 ^^[\OT1/cmr/m/n/12 )\OML/cmm/m/it/
+12 \OT1/cmr/m/n/12 (\OML/cmm/m/it/12 X[]; [] ; X[]\OT1/cmr/m/n/12 )\OML/cmm/m/
+it/12 ^^L\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 X[]; [] ; X[]\OT1/cmr/m/n/12 )
+ []
+
+
+Overfull \hbox (0.17105pt too wide) in paragraph at lines 600--600
+[]\T2A/cmr/bx/n/14.4 Координатная за-пись диф-фе-рен-ци-аль-ных форм
+ []
+
+
+Overfull \hbox (9.97987pt too wide) in paragraph at lines 605--605
+\OML/cmm/m/it/17.28 d$\T2A/cmr/bx/n/17.28 , его ак-си-о-ма-ти-че-ские свой-ства
+, су-ще-ство-
+ []
+
+
+Overfull \hbox (6.54742pt too wide) in paragraph at lines 606--607
+\T2A/cmr/m/up/12 Определим опе-ра-цию внеш-не-го диф-фе-рен-ци-ро-ва-ния $\OML/
+cmm/m/it/12 d \OT1/cmr/m/n/12 : 
+[](\OML/cmm/m/it/12 U\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ! \OT1/cmr/m/n/12 
+[](\OML/cmm/m/it/12 U\OT1/cmr/m/n/12 )$\T2A/cmr/m/up/12 . 
+ []
+
+[24]
+Overfull \hbox (2.10983pt too wide) detected at line 614
+\OML/cmm/m/it/12 d\OT1/cmr/m/n/12 ([] \OML/cmm/m/it/12 []dx[] \OMS/cmsy/m/n/12
+ ^ [] ^ \OML/cmm/m/it/12 dx[]\OT1/cmr/m/n/12 ) = [] []\OML/cmm/m/it/12 dx[] \OM
+S/cmsy/m/n/12 ^ \OML/cmm/m/it/12 dx[] \OMS/cmsy/m/n/12 ^ [] ^ \OML/cmm/m/it/12 
+dx[]
+ []
+
+
+Overfull \hbox (0.47066pt too wide) in paragraph at lines 621--621
+\T2A/cmr/bx/n/17.28 фор-ме и об-рат-ный об-раз диф-фе-рен-ци-аль-
+ []
+
+[25] [26]
+Overfull \hbox (1.50801pt too wide) in paragraph at lines 646--646
+[]\T2A/cmr/bx/n/17.28 Интегрирование диф-фе-рен-ци-аль-ной фор-
+ []
+
+
+Overfull \hbox (0.91084pt too wide) in paragraph at lines 655--655
+[]\T2A/cmr/bx/n/14.4 Равенство ну-лю ин-те-гра-ла диф-фе-рен-ци-а-ла фор-
+ []
+
+[27] [28] (./bileti.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5159 strings out of 479383
- 69363 string characters out of 5875829
+ 5176 strings out of 479383
+ 69641 string characters out of 5875829
  362962 words of memory out of 5000000
- 22095 multiletter control sequences out of 15000+600000
- 425564 words of font info for 87 fonts, out of 8000000 for 9000
+ 22107 multiletter control sequences out of 15000+600000
+ 427216 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,12n,72p,2361b,261s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/
@@ -765,18 +821,19 @@ st/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></
 usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf
--dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf-dist/fon
-ts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public
-/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1
-728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/s
-hare/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist
-/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/pu
-blic/cm-super/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/s
-frm2074.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on bileti.pdf (24 pages, 341160 bytes).
+-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texmf-dist/fonts
+/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf-dist/fonts/type1/pu
+blic/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/s
+fbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></u
+sr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf-
+dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type
+1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-sup
+er/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb
+></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on bileti.pdf (28 pages, 361365 bytes).
 PDF statistics:
- 172 PDF objects out of 1000 (max. 8388607)
- 118 compressed objects within 2 object streams
+ 189 PDF objects out of 1000 (max. 8388607)
+ 130 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
