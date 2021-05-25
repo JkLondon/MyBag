@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.4.19)  25 MAY 2021 15:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.4.19)  25 MAY 2021 21:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**first_task.tex
-(./first_task.tex
+**second_task.tex
+(./second_task.tex
 LaTeX2e <2020-10-01> patch level 2
 L3 programming layer <2020-12-03> xparse <2020-03-03>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
@@ -449,7 +449,7 @@ File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count272
 \l__pdf_internal_box=\box52
 )
-(./first_task.aux)
+(./second_task.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
@@ -540,127 +540,98 @@ LaTeX Font Info:    Trying to load font information for U+rsfs on input line 1.
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./parts/1_15.tex
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./parts/9_11.tex
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 3.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 2.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 3.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 2.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 3.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 2.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
-) (./parts/T1.tex) (./parts/T2.tex [2]
-<parts/img/T2.png, id=26, 392.21532pt x 286.82156pt>
-File: parts/img/T2.png Graphic file (type png)
-<use parts/img/T2.png>
-Package pdftex.def Info: parts/img/T2.png  used on input line 5.
-(pdftex.def)             Requested size: 392.21436pt x 286.82085pt.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2.
 
-Overfull \hbox (19.83917pt too wide) in paragraph at lines 5--6
-[][] 
- []
-
-) (./parts/1_57.tex [3 <./parts/img/T2.png>])
-Overfull \hbox (27.62306pt too wide) in paragraph at lines 11--11
-[]\T2A/cmr/bx/n/17.28 Формулы Фре-не-ля. По-ля-ри-за-ция. По-ток энер-
- []
-
-(./parts/2_1.tex) (./parts/2_20.tex [4]) (./parts/2_27.tex
-Overfull \hbox (15.23737pt too wide) in paragraph at lines 15--1
-\T2A/cmr/m/up/12 По за-дан-ным в усло-вии ве-ли-чи-нам на-хо-дим: $\OMS/cmsy/m/
-n/12 ^^@\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 ;\OT1/cmr/m/n/12 015;  \OMS/cmsy/m/n/
-12 ^^@\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 ;\OT1/cmr/m/n/12 091;  \OMS/cmsy/m/n/12
- ^^@\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 ;\OT1/cmr/m/n/12 176;  \OMS/cmsy/m/n/12 ^
-^@\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 ;\OT1/cmr/m/n/12 402$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--1
+Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
+) (./parts/9_17.tex
+Overfull \hbox (5.71156pt too wide) detected at line 6
+\OML/cmm/m/it/12 I \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 E[]\OT1/cmr/m/n/12 (1 + [
+] + [] + []\OML/cmm/m/it/12 e[] \OT1/cmr/m/n/12 + []\OML/cmm/m/it/12 e[] \OT1/c
+mr/m/n/12 + \OML/cmm/m/it/12 me[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 me[]\OT1/c
+mr/m/n/12 ) \OMS/cmsy/m/n/12 ^^Y \OML/cmm/m/it/12 E[]\OT1/cmr/m/n/12 (1 + 2\OML
+/cmm/m/it/12 m [] \OT1/cmr/m/n/12 
+\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )
+ []
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--3
+[2]) (./parts/9_28.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
 
  []
 
-) (./parts/10_21.tex) (./parts/10_24.tex [5]) (./parts/10_35.tex)
-(./parts/3_16.tex [6]) (./parts/3_11.tex
-<parts/img/3_16.jpg, id=43, 1284.8pt x 638.385pt>
-File: parts/img/3_16.jpg Graphic file (type jpg)
-<use parts/img/3_16.jpg>
-Package pdftex.def Info: parts/img/3_16.jpg  used on input line 2.
-(pdftex.def)             Requested size: 155.99762pt x 77.50879pt.
-) (./parts/3_20.tex
-<parts/img/3_20.png, id=44, 402.75468pt x 101.62968pt>
-File: parts/img/3_20.png Graphic file (type png)
-<use parts/img/3_20.png>
-Package pdftex.def Info: parts/img/3_20.png  used on input line 2.
-(pdftex.def)             Requested size: 402.7537pt x 101.62943pt.
-
-Overfull \hbox (12.7537pt too wide) in paragraph at lines 2--4
-[]
+) (./parts/9_79.tex [3]) (./parts/9_33.tex [4]) (./parts/9_36.tex)
+(./parts/9_40.tex) (./parts/9_78.tex
+Overfull \hbox (20.29597pt too wide) detected at line 2
+\OML/cmm/m/it/12 E \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 E[]e[] \OT1/cmr/m/n/12 + 
+\OML/cmm/m/it/12 E[]e[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 e[]\OT1/cmr/m/n/12 (
+\OML/cmm/m/it/12 E[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 E[]e[]\OT1/cmr/m/n/12 )
+ + \OML/cmm/m/it/12 ik[]\OT1/cmr/m/n/12 ([] \OMS/cmsy/m/n/12 ^^@ []\OT1/cmr/m/n
+/12 )
  []
 
-[7 <./parts/img/3_16.jpg> <./parts/img/3_20.png (PNG copy)>]) (./parts/3_35.tex
-) (./parts/4_9.tex
-Overfull \hbox (6.19211pt too wide) in paragraph at lines 12--14
-\T2A/cmr/m/up/12 Обозначив $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ![] \OT1/cmr/m/n/
-12 + \OML/cmm/m/it/12 ![]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 =\OT1/cmr/m/n/12 2 =
- \OML/cmm/m/it/12 !$ \T2A/cmr/m/up/12 по-лу-ча-ем усло-вие пер-во-го ми-ни-му-м
-а $\OML/cmm/m/it/12 !a\OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 p[]=c \OT1/cmr/m/n/12
- =
+) [5] (./parts/11_13.tex) (./parts/11_60.tex) (./parts/11_80.tex [6])
+(./parts/11_121.tex
+Overfull \hbox (84.3306pt too wide) detected at line 7
+[] \OML/cmm/m/it/12 E[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 E[] \OMS/cmsy/m/n/12
+ ^^A [] ^^A []\OT1/cmr/m/n/12 ([] \OML/cmm/m/it/12 !t \OT1/cmr/m/n/12 + [](\OML
+/cmm/m/it/12 !t \OT1/cmr/m/n/12 + ^^A\OML/cmm/m/it/12 '\OT1/cmr/m/n/12 )) = \OM
+L/cmm/m/it/12 E[] []\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 !t \OT1/cmr/m/n/12 + []) 
+[] []
  []
 
-) (./parts/5_13.tex [8]) (./parts/5_23.tex) (./parts/6_16.tex
-<parts/img/6_16.png, id=54, 300.3722pt x 137.7647pt>
-File: parts/img/6_16.png Graphic file (type png)
-<use parts/img/6_16.png>
-Package pdftex.def Info: parts/img/6_16.png  used on input line 2.
-(pdftex.def)             Requested size: 300.37144pt x 137.76434pt.
-)
-(./parts/6_31.tex
-Overfull \hbox (10.87056pt too wide) in paragraph at lines 2--1
-[] \T2A/cmr/m/up/12 На век-тор-ной диа-
+) (./parts/11_88.tex [7]) (./parts/11_90.tex
+Overfull \hbox (12.27094pt too wide) detected at line 10
+[]\OML/cmm/m/it/12 N \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 < S > ^^YR[] \OT1/cmr/m
+/n/12 = [][]\OML/cmm/m/it/12 ^^YR[] \OT1/cmr/m/n/12 = [] = 0\OML/cmm/m/it/12 ;\
+OT1/cmr/m/n/12 4 \OMS/cmsy/m/n/12 ^^A \OT1/cmr/m/n/12 10[][]
  []
 
-[9]) (./parts/6_50.tex [10 <./parts/img/6_16.png (PNG copy)>])
-(./parts/7_10.tex [11]) (./parts/7_53.tex) (./parts/7_59.tex) (./parts/8_37.tex
-) (./parts/8_47.tex [12])) [13] (./first_task.aux)
+) (./parts/11_128.tex [8]) (./parts/T7.tex)) [9] (./second_task.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5243 strings out of 479383
- 70452 string characters out of 5875830
- 361173 words of memory out of 5000000
- 22123 multiletter control sequences out of 15000+600000
- 419733 words of font info for 72 fonts, out of 8000000 for 9000
+ 5177 strings out of 479383
+ 69578 string characters out of 5875830
+ 365061 words of memory out of 5000000
+ 22084 multiletter control sequences out of 15000+600000
+ 419732 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,6n,74p,1806b,261s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,10n,74p,456b,261s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/s
-hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmsy6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.p
-fb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/
-texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/font
-s/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/public/
-cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm14
-40.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on first_task.pdf (13 pages, 328192 bytes).
+c/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></u
+sr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-
+dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type
+1/public/cm-super/sfrm0600.pfb></usr/share/texmf-dist/fonts/type1/public/cm-sup
+er/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb
+></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/te
+xmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
+Output written on second_task.pdf (9 pages, 219863 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
+ 108 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

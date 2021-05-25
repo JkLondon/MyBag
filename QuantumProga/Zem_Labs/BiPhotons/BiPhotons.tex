@@ -1,3 +1,5 @@
+\documentclass[a4paper,12pt]{article} % добавить leqno в [] для нумерации слева
+
 %%% Работа с русским языком
 \usepackage{cmap}					% поиск в PDF
 \usepackage{mathtext} 				% русские буквы в фомулах
@@ -29,5 +31,36 @@
 
 %%% Заголовок
 \author{Илья Михеев}
-\title{Домашнее задание по оптике: часть первая}
+\title{Бифотоны}
 \date{last upd \today  }
+
+\begin{document} % конец преамбулы, начало документа
+	
+	\maketitle 
+	\section{Параметры установки}
+	Матрицы BS и PS можно записать как 
+	\begin{equation*}
+		P_n = \begin{bmatrix}
+			e^{i(2\phi + x_n)}&0  & 0\\ 
+			0& e^{i \phi} & 0\\ 
+			0& 0 & 0
+		\end{bmatrix}
+		BS^1_{12} = \frac{1}{\sqrt{2}}\begin{bmatrix}
+			1&i  & 0\\ 
+			i&  1& 0\\ 
+			0& 0 & \sqrt{2}
+		\end{bmatrix}
+		BS^2_{01} = \frac{1}{\sqrt{2}} \begin{bmatrix}
+			\sqrt{2}&0  &0 \\ 
+			0& 1 &i \\ 
+			0& i & 1
+		\end{bmatrix}
+	\end{equation*}
+	Тогда выходное состояние будет выглядеть как
+	\begin{equation*}
+		\psi_{out} = \begin{bmatrix}
+			\frac{e^{i \phi}(i + e^{i(x_1 + \phi)})}{\sqrt{6}}&\frac{i \sqrt{2} + e^{i(x_2 + \phi) + i e^{i(x_2+x_1+2\phi)}}}{2 \sqrt{3}}&\frac{i \sqrt{2} + e^{i(x_2 + \phi) - i e^{i(x_2+x_1+2\phi)}}}{2 \sqrt{3}} \\ 
+		\end{bmatrix}
+	\end{equation*}
+	Тогда 
+\end{document} % конец документа
