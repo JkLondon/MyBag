@@ -1,0 +1,1412 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.5.27)  30 MAY 2021 17:25
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**p2.tex
+(./p2.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+! Undefined control sequence.
+l.1 \section
+            {Центрированные оптические систем�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Package inputenc Error: Unicode character Ц (U+0426)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Ц
+               ентрированные оптические систем�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Це
+                 нтрированные оптические систем�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Цен
+                   трированные оптические систем�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character т (U+0442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Цент
+                     рированные оптические систем�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character р (U+0440)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Центр
+                       ированные оптические систем�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Центри
+                         рованные оптические систем�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character р (U+0440)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Центрир
+                           ованные оптические систем�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Центриро
+                             ванные оптические систем�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character в (U+0432)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Центриров
+                               анные оптические систем�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+0430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Центрирова
+                                 нные оптические систем�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Центрирован
+                                   ные оптические систем�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Центрированн
+                                     ые оптические систем�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ы (U+044B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Центрированны
+                                       е оптические систем�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Центрированные
+                                          оптические систем�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Центрированные о
+                                            птические систем�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character п (U+043F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Центрированные оп
+                                              тические систем�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character т (U+0442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Центрированные опт
+                                                ические систем�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Центрированные опти
+                                                  ческие систем�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ч (U+0447)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ion{Центрированные оптич
+                                                  еские системы....
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...n{Центрированные оптиче
+                                                  ские системы. �...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character с (U+0441)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...Центрированные оптичес
+                                                  кие системы. Т�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character к (U+043A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ентрированные оптическ
+                                                  ие системы. То�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...нтрированные оптически
+                                                  е системы. Тон�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...трированные оптические
+                                                   системы. Тонк�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character с (U+0441)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�ированные оптические с
+                                                  истемы. Тонкая...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�рованные оптические си
+                                                  стемы. Тонкая �...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character с (U+0441)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�ованные оптические сис
+                                                  темы. Тонкая л�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character т (U+0442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�ванные оптические сист
+                                                  емы. Тонкая ли�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�анные оптические систе
+                                                  мы. Тонкая лин�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character м (U+043C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�нные оптические систем
+                                                  ы. Тонкая линз�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ы (U+044B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�ные оптические системы
+                                                  . Тонкая линза....
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ные оптические системы.
+                                                   Тонкая линза. ...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no . in font nullfont!
+
+! Package inputenc Error: Unicode character Т (U+0422)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�е оптические системы. Т
+                                                  онкая линза. Ф�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...� оптические системы. То
+                                                  нкая линза. Фо�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...оптические системы. Тон
+                                                  кая линза. Фок�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character к (U+043A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...птические системы. Тонк
+                                                  ая линза. Фоку�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+0430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...тические системы. Тонка
+                                                  я линза. Фокус�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character я (U+044F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ические системы. Тонкая
+                                                   линза. Фокусы ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character л (U+043B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�еские системы. Тонкая л
+                                                  инза. Фокусы и ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�ские системы. Тонкая ли
+                                                  нза. Фокусы и г...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�кие системы. Тонкая лин
+                                                  за. Фокусы и гл...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character з (U+0437)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�ие системы. Тонкая линз
+                                                  а. Фокусы и гла...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+0430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�е системы. Тонкая линза
+                                                  . Фокусы и глав...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no . in font nullfont!
+
+! Package inputenc Error: Unicode character Ф (U+0424)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...системы. Тонкая линза. Ф
+                                                  окусы и главны...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...истемы. Тонкая линза. Фо
+                                                  кусы и главные...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character к (U+043A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...стемы. Тонкая линза. Фок
+                                                  усы и главные �...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character у (U+0443)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...темы. Тонкая линза. Фоку
+                                                  сы и главные п�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character с (U+0441)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...емы. Тонкая линза. Фокус
+                                                  ы и главные пл�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ы (U+044B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...мы. Тонкая линза. Фокусы
+                                                   и главные пло�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�. Тонкая линза. Фокусы и
+                                                   главные плоск...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character г (U+0433)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...Тонкая линза. Фокусы и г
+                                                  лавные плоско�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character л (U+043B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...онкая линза. Фокусы и гл
+                                                  авные плоскос�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+0430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...нкая линза. Фокусы и гла
+                                                  вные плоскост�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character в (U+0432)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...кая линза. Фокусы и глав
+                                                  ные плоскости ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ая линза. Фокусы и главн
+                                                  ые плоскости о...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ы (U+044B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...я линза. Фокусы и главны
+                                                  е плоскости оп...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ... линза. Фокусы и главные
+                                                   плоскости опт...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character п (U+043F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...инза. Фокусы и главные п
+                                                  лоскости опти�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character л (U+043B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...нза. Фокусы и главные пл
+                                                  оскости оптич�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...за. Фокусы и главные пло
+                                                  скости оптиче�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character с (U+0441)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...а. Фокусы и главные плос
+                                                  кости оптичес�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character к (U+043A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 .... Фокусы и главные плоск
+                                                  ости оптическ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...Фокусы и главные плоско
+                                                  сти оптическо�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character с (U+0441)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...окусы и главные плоскос
+                                                  ти оптической ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character т (U+0442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...кусы и главные плоскост
+                                                  и оптической с...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...усы и главные плоскости
+                                                   оптической си...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�ы и главные плоскости о
+                                                  птической сис�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character п (U+043F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...� и главные плоскости оп
+                                                  тической сист�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character т (U+0442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...и главные плоскости опт
+                                                  ической систе�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ... главные плоскости опти
+                                                  ческой систем�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ч (U+0447)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�лавные плоскости оптич
+                                                  еской системы....
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�авные плоскости оптиче
+                                                  ской системы. �...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character с (U+0441)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�вные плоскости оптичес
+                                                  кой системы. О�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character к (U+043A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�ные плоскости оптическ
+                                                  ой системы. Оп�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character о (U+043E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�ые плоскости оптическо
+                                                  й системы. Опт�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character й (U+0439)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�е плоскости оптической
+                                                   системы. Опти�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character с (U+0441)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ... плоскости оптической с
+                                                  истемы. Оптиче...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�лоскости оптической си
+                                                  стемы. Оптичес...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character с (U+0441)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�оскости оптической сис
+                                                  темы. Оптическ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character т (U+0442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�скости оптической сист
+                                                  емы. Оптически...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�кости оптической систе
+                                                  мы. Оптические...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character м (U+043C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�ости оптической систем
+                                                  ы. Оптические �...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ы (U+044B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�сти оптической системы
+                                                  . Оптические и�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no . in font nullfont!
+
+! Package inputenc Error: Unicode character О (U+041E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�и оптической системы. О
+                                                  птические инс�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character п (U+043F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...� оптической системы. Оп
+                                                  тические инст�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character т (U+0442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...оптической системы. Опт
+                                                  ические инстр�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...птической системы. Опти
+                                                  ческие инстру�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ч (U+0447)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...тической системы. Оптич
+                                                  еские инструм�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ической системы. Оптиче
+                                                  ские инструме�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character с (U+0441)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ческой системы. Оптичес
+                                                  кие инструмен�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character к (U+043A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...еской системы. Оптическ
+                                                  ие инструмент�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ской системы. Оптически
+                                                  е инструменты:...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...кой системы. Оптические
+                                                   инструменты: �...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�й системы. Оптические и
+                                                  нструменты: лу...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character н (U+043D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...� системы. Оптические ин
+                                                  струменты: луп...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character с (U+0441)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...системы. Оптические инс
+                                                  трументы: лупа...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character т (U+0442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...истемы. Оптические инст
+                                                  рументы: лупа, ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character р (U+0440)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...стемы. Оптические инстр
+                                                  ументы: лупа, т...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character у (U+0443)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...темы. Оптические инстру
+                                                  менты: лупа, те...
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 41 strings out of 478994
+ 698 string characters out of 5864751
+ 283044 words of memory out of 5000000
+ 17626 multiletter control sequences out of 15000+600000
+ 403430 words of font info for 27 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 13i,0n,15p,320b,40s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+!  ==> Fatal error occurred, no output PDF file produced!

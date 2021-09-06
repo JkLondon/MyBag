@@ -1,0 +1,256 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.3.18)  14 APR 2021 21:57
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**2_45.tex
+(./2_45.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-03> xparse <2020-03-03>
+! Undefined control sequence.
+l.1 \subsubsection
+                  *{2.45}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \subsubsection*
+                   {2.45}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no * in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+Missing character: There is no , in font nullfont!
+
+! LaTeX Error: Environment equation* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \begin{equation*}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.4 	\tg
+        \left( \frac{\delta}{2}\right) = \frac{1-n^2}{2n} = 1
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4 	\tg\left
+             ( \frac{\delta}{2}\right) = \frac{1-n^2}{2n} = 1
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: \begin{document} ended by \end{equation*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \end{equation*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.5 \end{equation*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+! Package inputenc Error: Unicode character О (U+041E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 О
+      ткуда $n = 0,414$, т.е. $n_1 = 2,41$ при $n_2=1$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character т (U+0442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 От
+        куда $n = 0,414$, т.е. $n_1 = 2,41$ при $n_2=1$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character к (U+043A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 Отк
+          уда $n = 0,414$, т.е. $n_1 = 2,41$ при $n_2=1$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character у (U+0443)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 Отку
+            да $n = 0,414$, т.е. $n_1 = 2,41$ при $n_2=1$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character д (U+0434)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 Откуд
+              а $n = 0,414$, т.е. $n_1 = 2,41$ при $n_2=1$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character а (U+0430)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 Откуда
+                 $n = 0,414$, т.е. $n_1 = 2,41$ при $n_2=1$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no , in font nullfont!
+
+! Package inputenc Error: Unicode character т (U+0442)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 Откуда $n = 0,414$, т
+                                .е. $n_1 = 2,41$ при $n_2=1$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no . in font nullfont!
+
+! Package inputenc Error: Unicode character е (U+0435)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 Откуда $n = 0,414$, т.е
+                                   . $n_1 = 2,41$ при $n_2=1$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no . in font nullfont!
+
+! Package inputenc Error: Unicode character п (U+043F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...�уда $n = 0,414$, т.е. $n_1 = 2,41$ п
+                                                  ри $n_2=1$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character р (U+0440)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...�да $n = 0,414$, т.е. $n_1 = 2,41$ пр
+                                                  и $n_2=1$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character и (U+0438)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...�а $n = 0,414$, т.е. $n_1 = 2,41$ при
+                                                   $n_2=1$.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no . in font nullfont!
+)
+! Emergency stop.
+<*> 2_45.tex
+            
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 29 strings out of 479383
+ 471 string characters out of 5875830
+ 267160 words of memory out of 5000000
+ 17242 multiletter control sequences out of 15000+600000
+ 403430 words of font info for 27 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,3n,15p,78b,56s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
