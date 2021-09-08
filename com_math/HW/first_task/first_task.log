@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.5.27)  7 SEP 2021 01:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.5.27)  7 SEP 2021 21:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**first_week.tex
-(./first_week.tex
+**first_task.tex
+(./first_task.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
@@ -449,8 +449,8 @@ File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count274
 \l__pdf_internal_box=\box52
 )
-(./first_week.aux)
-\openout1 = `first_week.aux'.
+(./first_task.aux)
+\openout1 = `first_task.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
@@ -556,22 +556,18 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
 ) (./parts/I_8_18.tex
-<parts/img/I_8_18.png, id=14, 467.7475pt x 101.37875pt>
+<parts/img/I_8_18.png, id=14, 913.4125pt x 101.37875pt>
 File: parts/img/I_8_18.png Graphic file (type png)
 <use parts/img/I_8_18.png>
 Package pdftex.def Info: parts/img/I_8_18.png  used on input line 4.
-(pdftex.def)             Requested size: 467.74634pt x 101.3785pt.
-
-Overfull \hbox (77.74634pt too wide) in paragraph at lines 4--5
- [] 
- []
-
-[2 <./parts/img/I_8_18.png>]) (./parts/I_8_5.tex
+(pdftex.def)             Requested size: 390.0pt x 43.28572pt.
+)
+(./parts/I_8_5.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
 
-) (./parts/I_8_28.tex) (./parts/I_9_2.tex
+[2 <./parts/img/I_8_18.png>]) (./parts/I_8_28.tex) (./parts/I_9_2.tex
 <parts/img/I_9_2_1.png, id=30, 381.425pt x 259.97125pt>
 File: parts/img/I_9_2_1.png Graphic file (type png)
 <use parts/img/I_9_2_1.png>
@@ -587,20 +583,20 @@ Overfull \hbox (2.61049pt too wide) in paragraph at lines 3--5
 [][] [] 
  []
 
-[3])) [4 <./parts/img/I_9_2_1.png> <./parts/img/I_9_2_2.png>] (./first_week.aux
-)
+) [3 <./parts/img/I_9_2_1.png> <./parts/img/I_9_2_2.png>] (./parts/II_7_7.tex))
+[4] (./first_task.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5186 strings out of 478994
- 69943 string characters out of 5864751
- 372724 words of memory out of 5000000
- 22495 multiletter control sequences out of 15000+600000
+ 5190 strings out of 478994
+ 69999 string characters out of 5864751
+ 373724 words of memory out of 5000000
+ 22496 multiletter control sequences out of 15000+600000
  419733 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,6n,77p,1431b,261s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,6n,77p,1431b,283s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/publi
@@ -613,7 +609,7 @@ sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></
 usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf
 -dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf-dist/fonts/typ
 e1/public/cm-super/sfrm2074.pfb>
-Output written on first_week.pdf (4 pages, 156603 bytes).
+Output written on first_task.pdf (4 pages, 160269 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream
